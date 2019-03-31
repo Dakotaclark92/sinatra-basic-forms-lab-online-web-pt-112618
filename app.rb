@@ -8,9 +8,10 @@ class App < Sinatra::Base
   
   post '/create_puppy' do
     cp = Puppy.new
-    @name = cp.puppys(params[:name])
+    @name = cp.puppies(params[:name])
+    @breed = cp.puppies(params[:breed])
     @age = cp.puppies(params[:age])
-    @
+    
     
     erb :create_puppy
   end
