@@ -1,5 +1,7 @@
 class Puppy
   
+  def puppies
+    
   
   
   
