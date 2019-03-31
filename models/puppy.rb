@@ -1,6 +1,5 @@
 class Puppy
   
-  def 
   
   
   
