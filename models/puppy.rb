@@ -1,6 +1,11 @@
 class Puppy
+  attr_accessor (name, breed, age)
   
-  def puppies
+  def initialize
+    @name = name
+    @breed = breed
+    @months_old = months_old
+  end
     
   
   
