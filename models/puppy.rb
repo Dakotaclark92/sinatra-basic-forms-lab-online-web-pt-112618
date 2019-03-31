@@ -1,6 +1,6 @@
 class Puppy
   
-  def puppy
+  def 
   
   
   
