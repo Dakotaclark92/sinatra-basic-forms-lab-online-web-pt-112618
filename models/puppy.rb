@@ -1,1 +1,8 @@
-Class
+class Puppy
+  
+  def puppy
+  
+  
+  
+  
+end
